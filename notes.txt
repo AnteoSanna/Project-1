@@ -1,3 +1,6 @@
 This is my first python project!
 
 What topics do I want to tackle?
+
+-Does increasing the proportion of school spend on school resources improv
+-Does increasing the diveristy of the staff affect african american graduation rates.
